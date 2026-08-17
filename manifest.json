@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Bilibili 字幕提取器",
+  "version": "1.0.0",
+  "description": "提取当前 Bilibili 视频的独立字幕轨道，并复制或下载为文本。",
+  "permissions": ["activeTab", "clipboardWrite", "downloads"],
+  "host_permissions": [
+    "https://api.bilibili.com/*",
+    "https://*.hdslb.com/*"
+  ],
+  "action": {
+    "default_title": "提取 Bilibili 字幕",
+    "default_popup": "popup.html"
+  }
+}
