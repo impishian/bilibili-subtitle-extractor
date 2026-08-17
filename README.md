@@ -10,3 +10,4 @@ macOS / Windows Chrome 推荐安装：
 ## 说明：
 1. Chrome 在 macOS / Windows 上通常会阻止直接安装商店外的本地 CRX，因此 ZIP/解压目录是最稳定的方式。
 2. 仅限底部状态栏的有“字幕”按钮（音量按钮左边）的视频。
+3. 下载后的文字稿，可以再用 ChatGPT/DeepSeek 等，再遵循原文整理，或翻译，或总结为若干要点。
